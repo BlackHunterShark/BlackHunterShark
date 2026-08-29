@@ -62,6 +62,10 @@
 <br>
 </p>
 <p align="center">
+  <img src="./tải xuống (5).jpe.png" width="500">
+
+</p>
+<p align="center">
   <img src="./Alien Stage Ivan GIF - Alien Stage Ivan - ค้นพบและแชร์ GIF.gif" width="500">
 
 <p align="center">
