@@ -61,11 +61,11 @@
     font-weight="bold" 
     fill="url(#blood)"
     filter="url(#glow)">
-    ✧༺𖤐 HELLO WELCOME TO MY PROFILE 𖤐༻✧
+    ✧༺𖤐 HELLO WELCOME!!! 𖤐༻✧
   <animate attributeName="x" 
     from="1200" 
     to="-100" 
-    dur="7s"
+    dur="3s"
     repeatCount="indefinite"/>
   </text>
   
