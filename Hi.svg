@@ -3,9 +3,10 @@
   <defs>
   <linearGradient id="blood" x1="0%" y1="0%" x2="100%" y2="0%">  
     <stop offset="0%" stop-color="520300"/>
-    <stop offset="0%" stop-color="400101"/>
-    <stop offset="0%" stop-color="290909"/>
-    <stop offset="0%" stop-color="20101E"/>
+    <stop offset="25%" stop-color="400101"/>
+    <stop offset="50%" stop-color="290909"/>
+    <stop offset="75%" stop-color="20101E"/>
+    <stop offset="100%" stop-color="17192F"/>
     </linearGradient> 
   </defs>
   <text x="450"
