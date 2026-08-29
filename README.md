@@ -62,7 +62,7 @@
 <br>
 </p>
 <p align="center">
-  <img src="./tải xuống (4).jpe.png" width="500">
+  <img src="./lily.png" width="500">
 
 </p>
 <p align="center">
@@ -75,3 +75,13 @@
 </p>
 <p align="center">
   <img src="./tải xuống (8).jpe.png" width="300">
+  
+  <p align="center">
+  <sub>━━━━━━━━━━●━━━━━━━━━━</sub><br>
+  <sub>♫Black Sorrow (VININOS - ALNST Original Soudtrack Part.4)</sub>
+</p>
+<p align="center">
+   <img src="./tải xuống (5).jpe.png" width="500">
+  <img src="./tải xuống (10).jpe" width="500">
+ <img src="./lily.png" width="500">  
+  
