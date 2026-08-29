@@ -5,35 +5,35 @@
     <stop offset="0%">
       <animate 
         attributeName="stop-color" 
-        values="#DD7B60;#B14359;#693C5B;#3C727C;#87B68E;#DD7B60" 
+        values="#A0E0C8;#74BFBA;#4F8C9E;#31557E;#1B255D;#A0E0C8" 
         dur="5s" 
         repeatCount="indefinite"/>
     </stop>
     <stop offset="25%"> 
       <animate 
         attributeName="stop-color" 
-        values="#B14359;#693C5B;#3C727C;#87B68E;#DD7B60;#B14359" 
+        values="#74BFBA;#4F8C9E;#31557E;#1B255D;#A0E0C8;#74BFBA" 
         dur="5s" 
         repeatCount="indefinite"/>
     </stop>
     <stop offset="50%"> 
       <animate
         attributeName="stop-color" 
-        values="#693C5B;#3C727C;#87B68E;#DD7B60;#B14359;#693C5B"
+        values="#4F8C9E;#31557E;#1B255D;#A0E0C8;#74BFBA;#4F8C9E"
         dur="5s" 
         repeatCount="indefinite"/> 
     </stop>
     <stop offset="75%"> 
       <animate
         attributeName="stop-color" 
-        values="#3C727C;#87B68E;#DD7B60;#B14359;#693C5B;#3C727C"
+        values="#31557E;#1B255D;#A0E0C8;#74BFBA;#4F8C9E;#31557E"
         dur="5s" 
         repeatCount="indefinite"/> 
     </stop>
       <stop offset="100%"> 
       <animate
         attributeName="stop-color" 
-        values="#87B68E;#DD7B60;#B14359;#693C5B;#3C727C;#87B68E"
+        values="#1B255D;#A0E0C8;#74BFBA;#4F8C9E;#31557E;#1B255D"
         dur="5s" 
         repeatCount="indefinite"/> 
     </stop>
