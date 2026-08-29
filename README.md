@@ -53,6 +53,12 @@
 <i>✮𝑰 𝒖𝒔𝒖𝒂𝒍𝒍𝒚 𝒑𝒍𝒂𝒚 𝒐𝒏 𝒕𝒉𝒆 𝑺𝒂𝒇𝒆 𝑽𝒊𝒆𝒕𝒏𝒂𝒎 𝒔𝒆𝒓𝒗𝒆𝒓.✮</i>
 </p>
 <i>𝑰𝒏 𝒑𝒐𝒏𝒚 𝒕𝒐𝒘𝒏: 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒔𝒊𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆, 𝑪+𝑯, 𝒊 𝒖𝒔𝒖𝒂𝒍𝒍𝒚 𝒂𝒇𝒌 𝒚𝒐𝒖 𝒋𝒖𝒔𝒕 𝒘𝒉𝒊𝒔𝒑𝒆𝒓 𝒎𝒆 𝒊𝒇 𝒊𝒎 𝒏𝒐𝒕 𝒕𝒉𝒆𝒓𝒆^_^</i>
+</p>
+<i>✮𝑭𝒂𝒏𝒅𝒐𝒎: 𝑹𝒐𝒃𝒍𝒐𝒙, 𝑪𝒐𝒏𝒕𝒓𝒚𝑯𝒖𝒎𝒂𝒏,...</i>
+ </p>
+<h3 align="center">✧ 𝑵𝑶𝑻𝑬 ✧</h3>
+<p align="center">
+<i>⚠︎𝑫𝒐 𝒏𝒐𝒕 𝒄𝒐𝒑𝒚 𝒎𝒚 𝒔𝒌𝒊𝒏, 𝒐𝒓 𝒄𝒐𝒑𝒚 𝒎𝒚 𝒊𝒅𝒆𝒂𝒔 𝒘𝒊𝒕𝒉𝒐𝒖𝒕 𝒂𝒔𝒌𝒊𝒏𝒈⚠︎</i>
 
 <p align="center">
   <img src="./tải xuống (6).jpe.png" width="500">
@@ -81,7 +87,6 @@
   <sub>♫Black Sorrow (VININOS - ALNST Original Soudtrack Part.4)</sub>
 </p>
 <p align="center">
-   <img src="./tải xuống (5).jpe.png" width="500">
   <img src="./tải xuống (10).jpe" width="500">
  <img src="./lily.png" width="500">  
   
