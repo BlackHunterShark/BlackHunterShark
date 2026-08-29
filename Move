@@ -1,53 +1,7 @@
-background: linear-gradient(
-        90deg,
-        #ff0000,
-        #ff7300,
-        #ffff00,
-        #00ff00,
-        #00ffff,
-        #008cff,
-        #8a2be2,
-        #ff00ff,
-        #ff0000
-    );
-
-    background-size: 300% 100%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-
-    /* Chạy chữ */
-    animation:
-        move 8s linear infinite,
-        gradient 3s linear infinite;
-}
-
-@keyframes move {
-    from {
-        transform: translateX(100%);
-    }
-    to {
-        transform: translateX(-100%);
-    }
-}
-
-@keyframes gradient {
-    from {
-        background-position: 0% 50%;
-    }
-    to {
-        background-position: 300% 50%;
-    }
-}
-</style>
-</head>
-
-<body>
-
-<div class="marquee">
-    <div class="text">
-     WelcomeWelcomeWelcomeWelcomeWelcomeWelcome
-    </div>
-</div>
-
-</body>
-</html>
+<p align="center">
+  <img src="./gradient-text.svg" alt="Gradient Text">
+</p>
+WASUP MY BUDDY
+<stop offset="0%" stop-color="#ff00cc"/>
+<stop offset="50%" stop-color="#3333ff"/>
+<stop offset="100%" stop-color="#00ffff"/>
