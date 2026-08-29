@@ -60,5 +60,10 @@
 </table>
 
 <br>
+</p>
 
-  
+
+<p align="center">
+  <a href="[https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF]">
+    <img src="https://img.shields.io/badge/♫_Psycho_Teddy-Psycho_Teddy-ff3dbf?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
