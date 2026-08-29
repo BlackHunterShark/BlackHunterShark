@@ -3,4 +3,4 @@
 </p>
 </p>
 <p align="center">
-  <img src="./.gif" width="675">
+  <img src="./" width="675">
