@@ -62,7 +62,7 @@
 <br>
 </p>
 <p align="center">
-  <img src="./tải xuống (6).jpe.png" width="500">
+  <img src="./Alien Stage Ivan GIF - Alien Stage Ivan - ค้นพบและแชร์ GIF.gif" width="500">
 
 <p align="center">
   <a href="[https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6]">
