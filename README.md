@@ -21,11 +21,13 @@
 
 <td width="280" align="center">
 
-<img src="https://github.com/ADelightfulNewDeath/Project/blob/main/Khong_Co_Tieu_e224_20260829225258.png?raw=true" width="250"/>
+<img src="【ALNST】ANGEL IVAN ꒰chibi꒱ ⋆_𐙚 ̊.jpe.png?raw=true" width="500"/>
 
 <p align="center">
-
-  <i>Art belongs to <b>@.soda.fizz</b> on tik tok</i>
+ 𖤐𝕴𝖁𝕬𝕹𖤐
 
 </p>
+</td>
+
+<td width="650" align="center">
 
