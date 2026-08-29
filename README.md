@@ -3,4 +3,4 @@
 </p>
 </p>
 <p align="center">
-  <img src="./" width="675">
+  <img src="./Ivan.png" width="800">
