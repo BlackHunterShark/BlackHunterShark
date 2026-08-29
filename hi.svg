@@ -1,1 +1,24 @@
+<svg width="50%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <LinearGrandient id="blood" x1="0%" y1="0%" y2="0%">
+    <stop offset="0%" stop-color="5e3936"></stop>
+  <animate attributeName="stop-color" 
+    values="#ff0080;#7928ca;#00d4ff;#ff0080"
+    dur="4s"
+    repeatCount="indefinite"/> </stop>
+      <stop offset="50%" stop-color="#7928ca">
+        <animate attributeName="stop-color"
+          values="#7928ca;#00d4ff;#ff0080;#7928ca" dur="4s"
+          repeatCount="indefinite"/> </stop>
+     <stop offset="100%" stop-color="#00d4ff"> <animate attributeName="stop-color" values="#00d4ff;#ff0080;#7928ca;#00d4ff" dur="4s" repeatCount="indefinite"/> </stop>
+      </linearGradient>
+      <filter id="glow"> <feGaussianBlur stdDeviation="5" result="blur"/>
+        <feMerge> <feMergeNode in="blur"/> <feMergeNode in="SourceGraphic"/>
+          </feMerge> 
+      </filter>
+      </defs>
+  <text x="450" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#gradient)" filter="url(#glow)">
+    Hi Buggy
+  </text>
+</svg>
