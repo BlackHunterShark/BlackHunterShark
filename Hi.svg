@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+
+  <defs>
+  <linearGradient id="blood" x1="0%" y1="0%" x2="100%" y2="0%">  
+    <stop offset="0%" stop-color="520300"/>
+    <stop offset="0%" stop-color="400101"/>
+    <stop offset="0%" stop-color="290909"/>
+    <stop offset="0%" stop-color="20101E"/>
+    </linearGradient> 
+  </defs>
+  <text x="450"
+    y="95" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif"
+    font-size="52" 
+    font-weight="bold" 
+    fill="url(#gradient)">
+    HI GAY
+  </text>
+</svg>
