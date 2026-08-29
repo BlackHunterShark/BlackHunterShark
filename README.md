@@ -1,4 +1,8 @@
-<p align="center">  
+<p align="center">
+  <img src="./tải xuống (6).jpe.png" width="300">
+
+<p align="center"> 
+  
   <img src="./Hi.svg" width="400"> 
 </p>
 <p align="center">
