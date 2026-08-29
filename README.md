@@ -65,6 +65,9 @@
   <img src="./Alien Stage Ivan GIF - Alien Stage Ivan - ค้นพบและแชร์ GIF.gif" width="500">
 
 <p align="center">
-  <a href="[https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6]">
-    <img src="./tải xuống (8).jpe.png" width="300">
+  <a href="https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6">
+    <img src="https://img.shields.io/badge/♫_Black_Sorrow-ALNST-101010?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
+</p>
+<p align="center">
+  <img src="./tải xuống (8).jpe.png" width="300">
