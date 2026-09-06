@@ -3,7 +3,7 @@
 <svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg"> 
   <defs> 
     <linearGradient id="g"> 
-    <stop stop-color="#ff0080"> 
+    <stop offset="25%" stop-color="#ff0080"> 
       <animate attributeName="stop-color" 
         values="#ff0080;#7b2cff;#00d4ff;#ff0080" 
         dur="4s" 
@@ -28,11 +28,10 @@
   font-size="60" 
   font-family="Arial" 
   font-weight="bold" 
-  fill="url g">
+  fill="url(#g)">
 Hinami Fuyji
   
 </text>
   
 </svg>
   
-</div>
