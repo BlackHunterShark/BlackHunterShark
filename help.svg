@@ -1,21 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180"> 
 <defs> 
 <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%"> 
-<stop offset="0%" stop-color="#ff0080"> 
-<animate attributeName="stop-color" values="#ff0080;#7928ca;#00d4ff;#ff0080" 
+<stop offset="0%" stop-color="#692636"> 
+<animate attributeName="stop-color" values="#692636;#6b3938;#58705c;#474E30;#692636" 
+dur="3s" repeatCount="indefinite"/> 
+</stop>
+  <stop offset="25%" stop-color="#6b3938"> 
+<animate attributeName="stop-color" values="#6b3938;#58705c;#275954;#692636;#6b3938" 
 dur="3s" repeatCount="indefinite"/> 
 </stop>
 
-  <stop offset="50%" stop-color="#7928ca">
+  <stop offset="50%" stop-color="#58705c">
     <animate attributeName="stop-color"
-      values="#7928ca;#00d4ff;#ff0080;#7928ca"
+      values="#58705c;#275954;#692636;#6b3938;#58705c"
       dur="3s"
       repeatCount="indefinite"/>
   </stop>
 
-  <stop offset="100%" stop-color="#00d4ff">
+  <stop offset="100%" stop-color="#275954">
     <animate attributeName="stop-color"
-      values="#00d4ff;#ff0080;#7928ca;#00d4ff"
+      values="#275954;#692636;#6b3938;#58705c;#275954"
       dur="3s"
       repeatCount="indefinite"/>
   </stop>
@@ -23,18 +27,9 @@ dur="3s" repeatCount="indefinite"/>
 
 </defs>
 
-<text 
-  x="450" 
-  y="115" 
-  text-anchor="middle"
-  font-family="Arial, sans-serif" 
-  font-size="72" 
-  font-weight="bold" 
-  fill="url(#gradient)">
-Hinami Fuyji
+<text x="450" y="115"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="72" font-weight="bold"  fill="url(#gradient)"> 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 </text>
   
-</text>
-  
+  <text x="450" y="115"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="72" font-weight="bold"  fill="#692636"> hi </text>
 </svg>
 
 
