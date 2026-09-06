@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
 
@@ -43,12 +43,13 @@
       
     </linearGradient> 
     
-<text x="350" y="95" 
-  text-anchor="middle" 
-  font-size="60" 
-  font-family="Arial" 
-  font-weight="bold" 
-  fill="url(#blood)">
+<text x="450"
+    y="95" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif"
+    font-size="52" 
+    font-weight="bold" 
+    fill="url(#blood)">
 Hinami Fuyji
   
 </text>
