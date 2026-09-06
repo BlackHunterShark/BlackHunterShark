@@ -28,10 +28,15 @@
   
 <img src="MY BABY.png?raw=true" width="500"/>
 
-<img src="Credits_ Flor_Hiroshi.jpe" width="400"/>
 <p align="center">
  𖤐𝕲𝖗𝖎𝖊𝖋𝖊𝖗𖤐
+  
+<img src="Biohazard Userbox-Photoroom.png" width="400"/>
 
+<img src="MY kid.png" width="400"/>
+
+
+<img src="" width="400"/>
 </p>
 </td>
 
