@@ -24,6 +24,6 @@
   
   <text x="450" y="245"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="20"  font-style="italic"  fill="#6B3938"> 𝙄'𝙡𝙡 𝙜𝙤 𝘼𝙁𝙆 𝙤𝙘𝙘𝙖𝙨𝙞𝙤𝙣𝙖𝙡𝙡𝙮 𝙩𝙤 𝙖𝙩𝙩𝙚𝙣𝙙 𝙩𝙤 𝙩𝙝𝙞𝙣𝙜𝙨, 𝙨𝙤 𝙥𝙡𝙚𝙖𝙨𝙚 𝙬𝙝𝙞𝙨𝙥𝙚𝙧 𝙢𝙚 𝙞𝙛 𝙄'𝙢 𝘼𝙁𝙆.</text>
 	
-  <rect x="245" y="445" width="410" height="2" rx="1" fill="url(#gradient)" opacity=".8"></rect>
+  <rect x="450" y="445" width="410" height="8" rx="3" fill="url(#gradient)" opacity=".8"></rect>
   
 </svg>
