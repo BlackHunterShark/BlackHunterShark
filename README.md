@@ -37,7 +37,9 @@
 </p>
 <p align="center">
   <img src="./Blocktales.png" width="500">
-  
+  <p align="center">
+  <img src="./help.svg" width="980">
+</p>
 <p align="center">
   <img src="./Pest.png" width="450">
 </tr>
