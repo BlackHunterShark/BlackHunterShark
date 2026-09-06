@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./" width="650" length="900" >
+  <img src="./tải xuống (10)-Photoroom.png" width="600" length="900" >
 
 <p align="center"> 
   
@@ -10,14 +10,14 @@
 </p>
 <p align="center">
   <img src="./TOYOVAVAUK (@TOYOVAVAUK) on X.jpe" width="500">
+
+  </p>
+<p align="center">
+  <img src="./Pest’s shirt text transparent image __ Regretevator-Photoroom.png" width="500">
   
 </p>
 <p align="center">
-  <img src="./Ivan.png" width="900">
-  
-</p>
-<p align="center">
-  <img src="./tải xuống (2).jpe.png" width="300">
+  <img src="./_⑅ Pest _꒱_♡-Photoroom.png" width="400">
   <div align="center">
 
 <table>
@@ -64,8 +64,6 @@
 </p>
 <br>
 </p>
-<p align="center">
-  <img src="./lily.png" width="500">
 
 </p>
 <p align="center">
@@ -84,6 +82,7 @@
   <sub>♫watiwant</sub>
 </p>
 <p align="center">
-   <img src="./lily.png" width="500">  
-  <img src="./Ivan till.jpe" width="500">
+   <img src="./chubby griefer thing-Photoroom.png" width="300">  
+  <p align="center">
+  <img src="./Griefer Roblox GIF - Griefer Roblox Block tales - Discover & Share GIFs.gif" width="500">
   
