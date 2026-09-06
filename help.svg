@@ -1,36 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180"> 
 <defs> 
 <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%"> 
-<stop offset="0%" stop-color="#692636"> 
-<animate attributeName="stop-color" values="#692636;#6b3938;#58705c;#474E30;#692636" 
-dur="3s" repeatCount="indefinite"/> 
-</stop>
-  <stop offset="25%" stop-color="#6b3938"> 
-<animate attributeName="stop-color" values="#6b3938;#58705c;#275954;#692636;#6b3938" 
-dur="3s" repeatCount="indefinite"/> 
-</stop>
+<stop offset="0%" stop-color="#692636"></stop>
+  
+<stop offset="25%" stop-color="#6B3938"></stop>
 
-  <stop offset="50%" stop-color="#58705c">
-    <animate attributeName="stop-color"
-      values="#58705c;#275954;#692636;#6b3938;#58705c"
-      dur="3s"
-      repeatCount="indefinite"/>
-  </stop>
+  <stop offset="50%" stop-color="#58705c"></stop>
 
-  <stop offset="100%" stop-color="#275954">
-    <animate attributeName="stop-color"
-      values="#275954;#692636;#6b3938;#58705c;#275954"
-      dur="3s"
-      repeatCount="indefinite"/>
-  </stop>
+  <stop offset="100%" stop-color="#275954"></stop>
+    
 </linearGradient>
 
 </defs>
 
-<text x="450" y="115"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="72" font-weight="bold"  fill="url(#gradient)"> 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 </text>
+<text x="450" y="45"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="72" font-weight="bold"  fill="url(#gradient)">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</text>
+
+  <text x="450" y="95"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="42"  font-style="italic"  fill="#692636">✟𝓜𝔂 𝓷𝓪𝓶𝓮 𝓜𝓪𝔃𝔃 𝓸𝓻 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓚𝓪𝔂𝔃✟</text>
   
-  <text x="450" y="115"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="72" font-weight="bold"  fill="#692636"> hi </text>
+  <rect x="245" y="445" width="410" height="2" rx="1" fill="url(#g)" opacity=".8"></rect>
+  
 </svg>
+
+
+
 
 
 
