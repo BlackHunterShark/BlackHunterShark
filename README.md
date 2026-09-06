@@ -3,13 +3,13 @@
 
 <p align="center"> 
   
-  <img src="./Hi.svg" width="400"> 
+  <img src="./wc.svg" width="400"> 
 </p>
 <p align="center">
  ༒༺𓆩✦𓆪༻༒
 </p>
 <p align="center">
-  <img src="./tải xuống (2).jpe.png" width="300">
+  <img src="./TOYOVAVAUK (@TOYOVAVAUK) on X.jpe" width="500">
   
 </p>
 <p align="center">
@@ -69,7 +69,7 @@
 
 </p>
 <p align="center">
-  <img src="./Alien Stage Ivan GIF - Alien Stage Ivan - ค้นพบและแชร์ GIF.gif" width="500">
+  <img src="./grifer🪴-Photoroom.png" width="300">
 
 <p align="center">
   <a href="https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6">
