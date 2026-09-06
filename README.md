@@ -17,9 +17,14 @@
   
 </p>
 <p align="center">
+<i>✦𝓜𝔂 𝓕𝓪𝓿 𝓭𝓾𝓶𝓫𝓪𝓼𝓼✦</i>
+<p align="center">
   <img src="./_⑅ Pest _꒱_♡-Photoroom.png" width="400">
+   <img src="./chubby griefer thing-Photoroom.png" width="300">  
   <div align="center">
-
+<p align="center">
+ ༒༺𓆩✦𓆪༻༒
+</p>
 <table>
 <tr>
 
@@ -63,8 +68,10 @@
   </a>
 </p>
 <br>
+<p align="center"> 
+  
+  <img src="./Play.svg" width="600"> 
 </p>
-
 </p>
 <p align="center">
   <img src="./grifer🪴-Photoroom.png" width="300">
@@ -81,8 +88,7 @@
   <sub>━━━━━━━━━━●━━━━━━━━━━</sub><br>
   <sub>♫watiwant</sub>
 </p>
-<p align="center">
-   <img src="./chubby griefer thing-Photoroom.png" width="300">  
+  
   <p align="center">
   <img src="./Griefer Roblox GIF - Griefer Roblox Block tales - Discover & Share GIFs.gif" width="500">
   
