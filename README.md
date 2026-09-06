@@ -24,9 +24,11 @@
 <tr>
 
 <td width="280" align="center">
-
+<img src="Credits_ Flor_Hiroshi.jpe" width="500"/>
+  
 <img src="MY BABY.png?raw=true" width="500"/>
 
+<img src="Credits_ Flor_Hiroshi.jpe" width="400"/>
 <p align="center">
  𖤐𝕲𝖗𝖎𝖊𝖋𝖊𝖗𖤐
 
