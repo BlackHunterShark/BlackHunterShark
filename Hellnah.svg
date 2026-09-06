@@ -2,7 +2,7 @@
 
 <svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg"> 
   <defs> 
-    <linearGradient id="g"> 
+    <linearGradient id="g"  x1="0%" y1="0%" x2="100%" y2="0%"> 
     <stop offset="25%" stop-color="#ff0080"> 
       <animate attributeName="stop-color" 
         values="#ff0080;#7b2cff;#00d4ff;#ff0080" 
