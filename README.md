@@ -25,10 +25,10 @@
 
 <td width="280" align="center">
 
-<img src="【ALNST】ANGEL IVAN ꒰chibi꒱ ⋆_𐙚 ̊.jpe.png?raw=true" width="500"/>
+<img src="MY BABY.png?raw=true" width="500"/>
 
 <p align="center">
- 𖤐𝕴𝖁𝕬𝕹𖤐
+ 𖤐𝕲𝖗𝖎𝖊𝖋𝖊𝖗𖤐
 
 </p>
 </td>
