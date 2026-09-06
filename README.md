@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Flower.png" width="900" length="900" >
+  <img src="./" width="650" length="900" >
 
 <p align="center"> 
   
@@ -36,7 +36,7 @@
 <td width="650" align="center">
 </p>
 <p align="center">
-  <img src="./tải xuống (4).jpe.png" width="500">
+  <img src="./Blocktales.png" width="500">
   
   </p>
 <h3 align="center">✧ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ✧</h3>
