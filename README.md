@@ -72,8 +72,8 @@
   <img src="./grifer🪴-Photoroom.png" width="300">
 
 <p align="center">
-  <a href="https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6">
-    <img src="https://img.shields.io/badge/♫_Black_Sorrow-ALNST-101010?style=for-the-badge&logo=spotify&logoColor=white">
+  <a href="https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic?si=fzqOx04XS2i8U29COD94eQ">
+    <img src="https://img.shields.io/badge/♫_wutiwant-saraunh0ly-34852e?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 <p align="center">
@@ -81,7 +81,7 @@
   
   <p align="center">
   <sub>━━━━━━━━━━●━━━━━━━━━━</sub><br>
-  <sub>♫Black Sorrow (VININOS - ALNST Original Soudtrack Part.4)</sub>
+  <sub>♫watiwant</sub>
 </p>
 <p align="center">
    <img src="./lily.png" width="500">  
