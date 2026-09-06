@@ -5,35 +5,35 @@
     <stop offset="0%">
       <animate 
         attributeName="stop-color" 
-        values="#b1b2b4;#7a7b7f;#f0f0f0;#a7a8ac;#ededed;#b1b2b4" 
+        values="#701414;#DB3E3E;#E5DCB7;#7EA366;#16330D;#701414" 
         dur="5s" 
         repeatCount="indefinite"/>
     </stop>
     <stop offset="25%"> 
       <animate 
         attributeName="stop-color" 
-        values="#7a7b7f;#f0f0f0;#a7a8ac;#ededed;#b1b2b4;#7a7b7f" 
+        values="#DB3E3E;#E5DCB7;#7EA366;#16330D;#701414;#DB3E3E" 
         dur="5s" 
         repeatCount="indefinite"/>
     </stop>
     <stop offset="50%"> 
       <animate
         attributeName="stop-color" 
-        values="#f0f0f0;#a7a8ac;#ededed;#b1b2b4;#7a7b7f;#f0f0f0"
+        values="#E5DCB7;#7EA366;#16330D;#701414;#DB3E3E;#E5DCB7"
         dur="5s" 
         repeatCount="indefinite"/> 
     </stop>
     <stop offset="75%"> 
       <animate
         attributeName="stop-color" 
-        values="#a7a8ac;#ededed;#b1b2b4;#7a7b7f;#f0f0f0;#a7a8ac"
+        values="#7EA366;#16330D;#701414;#DB3E3E;#E5DCB7;#7EA366"
         dur="5s" 
         repeatCount="indefinite"/> 
     </stop>
       <stop offset="100%"> 
       <animate
         attributeName="stop-color" 
-        values="#ededed;#b1b2b4;#7a7b7f;#f0f0f0;#a7a8ac;#ededed"
+        values="#16330D;#701414;#DB3E3E;#E5DCB7;#7EA366;#16330D"
         dur="5s" 
         repeatCount="indefinite"/> 
     </stop>
@@ -61,7 +61,7 @@
     font-weight="bold" 
     fill="url(#blood)"
     filter="url(#glow)">
-    ✧༺𖤐 FREE S-ATA!!! 𖤐༻✧
+   ༺✝︎༻FREE S-ATA!!!༺✝︎༻
 
   </text>
   
