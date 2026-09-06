@@ -46,7 +46,7 @@
   <img src="./Blocktales.png" width="500">
   
   <p align="center">    
-  <img src="./help.svg" width="900">
+  <img src="./rip.svg" width="900">
 </p>
 
 <p align="center">
