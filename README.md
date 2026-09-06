@@ -53,10 +53,13 @@
   <img src="./Pest.png" width="450">
 </tr>
 </table>
+<p align="center"> 
+  
+  <img src="./yo.svg" width="400"> 
 </p>
 <p align="center">
   <a href="https://thered.atabook.org/">
-    <img src="https://img.shields.io/badge/☸_ATABOOK-000000?style=for-the-badge&labelColor="000000"> 
+    <img src="https://img.shields.io/badge/☸_ATABOOK-e5dcb7?style=for-the-badge&labelColor="000000"> 
   </a>
 </p>
 <br>
