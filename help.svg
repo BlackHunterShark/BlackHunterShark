@@ -10,36 +10,18 @@
   <stop offset="100%" stop-color="#275954"></stop>
     
 </linearGradient>
-
 </defs>
 
 <text x="450" y="45"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="30" font-weight="bold"  fill="url(#gradient)">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</text>
 
   <text x="450" y="95"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="20"  font-style="italic"  fill="#692636">✟𝓜𝔂 𝓷𝓪𝓶𝓮 𝓜𝓪𝔃𝔃 𝓸𝓻 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓬𝓪𝓵𝓵 𝓶𝓮 𝓚𝓪𝔂𝔃✟</text>
+  
     <text x="450" y="125"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="20"  font-style="italic"  fill="#6B3938">༺✝︎༻𝙄'𝙢 𝙖𝙣 𝙞𝙣𝙩𝙧𝙤𝙫𝙚𝙧𝙩, 𝙨𝙤 𝙄'𝙙 𝙖𝙥𝙥𝙧𝙚𝙘𝙞𝙖𝙩𝙚 𝙞𝙩 𝙞𝙛 𝙮𝙤𝙪 𝙨𝙩𝙖𝙧𝙩𝙚𝙙 𝙩𝙝𝙚 𝙘𝙤𝙣𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙤𝙣.༺✝︎༻</text>
+  
   <text x="450" y="165"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="20"  font-style="italic"  fill="#6B3938">✠𝙄 𝙩𝙚𝙣𝙙 𝙩𝙤 𝙗𝙚 𝙦𝙪𝙞𝙩𝙚 𝙦𝙪𝙞𝙚𝙩 𝙬𝙝𝙚𝙣 𝙄'𝙢 𝙟𝙪𝙨𝙩 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙨𝙤𝙢𝙚𝙤𝙣𝙚✠</text>
+  
   <text x="450" y="205"  text-anchor="middle"  font-family="Arial, sans-serif" font-size="20"  font-style="italic"  fill="#6B3938">✝𝙞𝙛 𝙮𝙤𝙪 𝙣𝙤𝙩𝙞𝙘𝙚 𝙢𝙚 𝙩𝙖𝙡𝙠𝙞𝙣𝙜 𝙖 𝙡𝙤𝙩 𝙡𝙖𝙩𝙚𝙧 𝙤𝙣, 𝙞𝙩 𝙢𝙚𝙖𝙣𝙨 𝙄'𝙫𝙚 𝙨𝙩𝙖𝙧𝙩𝙚𝙙 𝙩𝙤 𝙛𝙚𝙚𝙡 𝙘𝙤𝙢𝙛𝙤𝙧𝙩𝙖𝙗𝙡𝙚 𝙖𝙧𝙤𝙪𝙣𝙙 𝙮𝙤𝙪✝</text>
-  <rect x="245" y="445" width="410" height="2" rx="1" fill="url(#g)" opacity=".8"></rect>
+  
+  <rect x="245" y="445" width="410" height="2" rx="1" fill="url(#gradient)" opacity=".8"></rect>
   
 </svg>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
