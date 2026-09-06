@@ -61,7 +61,7 @@
 <i>⚠︎𝑫𝒐 𝒏𝒐𝒕 𝒄𝒐𝒑𝒚 𝒎𝒚 𝒔𝒌𝒊𝒏, 𝒐𝒓 𝒄𝒐𝒑𝒚 𝒎𝒚 𝒊𝒅𝒆𝒂𝒔 𝒘𝒊𝒕𝒉𝒐𝒖𝒕 𝒂𝒔𝒌𝒊𝒏𝒈⚠︎</i>
 
 <p align="center">
-  <img src="./tải xuống (6).jpe.png" width="500">
+  <img src="./Pest.png" width="450">
 </tr>
 </table>
 
