@@ -54,8 +54,11 @@
  𖤐𝓟𝓮𝓼𝓽𖤐
 <img src="tải xuống (3)-Photoroom.png" width="400"/>
 </p>
+<td width="500" align="center">
+  <img src="Credits_ Flor_Hiroshi.jpe" width="500"/>
+  <img src="art_not_mine-removebg-preview.png" width="600"/>
+  <img src="tải xuống (3)-Photoroom.png" width="400"/>
 </td>
-
 </tr>
 </table>
 <p align="center"> 
