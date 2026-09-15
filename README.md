@@ -66,7 +66,7 @@
   <img src="./yo.svg" width="400"> 
 </p>
 <p align="center">
-  <a href="https://thered.atabook.org/">
+  <a href="https://grieferpest.atabook.org/">
     <img src="https://img.shields.io/badge/☸_ATABOOK-e5dcb7?style=for-the-badge&labelColor="000000"> 
   </a>
 </p>
