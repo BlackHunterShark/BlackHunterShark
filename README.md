@@ -25,6 +25,17 @@
 <p align="center">
  ༒༺𓆩✦𓆪༻༒
 </p>
+    <td width="650" align="center">
+</p>
+<p align="center">
+  <img src="./Blocktales.png" width="500">
+  
+  <p align="center">    
+  <img src="./rip.svg" width="900">
+</p>
+
+<p align="center">
+  <img src="./Pest.png" width="450">
 <table>
 <tr>
 
@@ -45,17 +56,6 @@
 </p>
 </td>
 
-<td width="650" align="center">
-</p>
-<p align="center">
-  <img src="./Blocktales.png" width="500">
-  
-  <p align="center">    
-  <img src="./rip.svg" width="900">
-</p>
-
-<p align="center">
-  <img src="./Pest.png" width="450">
 </tr>
 </table>
 <p align="center"> 
