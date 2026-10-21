@@ -2,9 +2,9 @@
 
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#871c1c"></stop>
-      <stop offset="48%" stop-color="#9e5d24"></stop>
-      <stop offset="100%" stop-color="#698131"></stop>
+      <stop offset="0%" stop-color="#C6CACC"></stop>
+      <stop offset="48%" stop-color="#48484E"></stop>
+      <stop offset="100%" stop-color="#141621"></stop>
     </linearGradient>
   </defs>
 
