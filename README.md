@@ -80,8 +80,8 @@
   <img src="./grifer🪴-Photoroom.png" width="300">
 
 <p align="center">
-  <a href="https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic?si=fzqOx04XS2i8U29COD94eQ">
-    <img src="https://img.shields.io/badge/♫_wutiwant-saraunh0ly-34852e?style=for-the-badge&logo=spotify&logoColor=white">
+  <a href="https://open.spotify.com/album/2MsGEOkzNoqh3nowknQANL?si=G7_emtJXSbef75zxdsLSdA">
+    <img src="https://img.shields.io/badge/♫_Black_Sorrow-0A0A0A?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 <p align="center">
