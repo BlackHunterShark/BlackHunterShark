@@ -73,7 +73,7 @@
 <br>
 <p align="center"> 
   
-  <img src="./" width="600"> 
+  <img src="./Play.svg" width="600"> 
 </p>
 </p>
 <p align="center">
