@@ -65,7 +65,7 @@
  <img src="./lol.png" width="800"> 
 <p align="center"> 
   
-  <img src="./yo.svg" width="1200"> 
+  <img src="./" width="1200"> 
 </p>
 <p align="center">
   <a href="https://ivandeath.atabook.org/">
