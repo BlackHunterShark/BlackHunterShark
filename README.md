@@ -28,6 +28,10 @@
 
 <p align="center">
   <img src="./Pest.png" width="450">
+</p>
+
+   <img src="tải xuống (15).png" width="900"/>  
+   
 <table>
 <tr>
 
