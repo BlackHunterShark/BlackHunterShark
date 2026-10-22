@@ -55,9 +55,9 @@
 <img src="tải_xuống__7_-removebg-preview.png" width="300"/>
 </p>
 <td width="500" align="center">
-  <img src="Credits_ Flor_Hiroshi.jpe" width="500"/>
+  <img src="tải_xuống__14_-removebg-preview (1).png" width="500"/>
   <img src="tải_xuống__12_-removebg-preview.png" width="600"/>
-  <img src="tải xuống (3)-Photoroom.png" width="400"/>
+  <img src=tải_xuống__14_-removebg-preview (1).png" width="400"/>
 </td>
 </tr>
 </table>
