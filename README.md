@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tải_xuống__6_-removebg-preview.png" width="600" length="900" >
+  <img src="./tải_xuống__11_-removebg-preview.png" width="600" length="900" >
 
 <p align="center"> 
   
@@ -48,11 +48,11 @@
  𖤐𝕲𝖗𝖎𝖊𝖋𝖊𝖗𖤐
   
 <img src="tải_xuống__6_-removebg-preview.png" width="400"/>
-<img src="tải_xuống__7_-removebg-preview.png" width="200"/>
+<img src="tải_xuống__11_-removebg-preview.png" width="400"/>
 <img src="MY kid.png" width="400"/>
 <p align="center">
  𖤐𝓟𝓮𝓼𝓽𖤐
-<img src="tải xuống (3)-Photoroom.png" width="400"/>
+<img src="tải_xuống__7_-removebg-preview.png" width="300"/>
 </p>
 <td width="500" align="center">
   <img src="Credits_ Flor_Hiroshi.jpe" width="500"/>
