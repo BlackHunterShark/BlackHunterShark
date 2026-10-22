@@ -48,8 +48,8 @@
  𖤐𝕴𝖛𝖆𝖓𖤐
   
 <img src="tải_xuống__6_-removebg-preview.png" width="400"/>
-<img src="tải_xuống__11_-removebg-preview.png" width="400"/>
-<img src="ㅤㅤㅤㅤ_゙_ivanㅤ__ㅤalnst_ㅤ__-removebg-preview.png" width="400"/>
+<img src="tải_xuống__11_-removebg-preview.png" width="600"/>
+<img src="ㅤㅤㅤㅤ_゙_ivanㅤ__ㅤalnst_ㅤ__-removebg-preview.png" width="200"/>
 <p align="center">
  𖤐𝓐𝓵𝓲𝓮𝓷𝓢𝓽𝓪𝓰𝓮𖤐
 <img src="tải_xuống__7_-removebg-preview.png" width="300"/>
@@ -62,6 +62,7 @@
 </td>
 </tr>
 </table>
+ <img src="./lol.png" width="800"> 
 <p align="center"> 
   
   <img src="./yo.svg" width="400"> 
