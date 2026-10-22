@@ -48,7 +48,7 @@
  𖤐𝕲𝖗𝖎𝖊𝖋𝖊𝖗𖤐
   
 <img src="tải_xuống__6_-removebg-preview.png" width="400"/>
-<img src="Luxurious Dark Red Rose Arrangement on Black Cut Out - Browse Elegant Decor Now-Photoroom.png" width="400"/>
+<img src="tải_xuống__7_-removebg-preview.png" width="200"/>
 <img src="MY kid.png" width="400"/>
 <p align="center">
  𖤐𝓟𝓮𝓼𝓽𖤐
