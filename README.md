@@ -14,15 +14,7 @@
   </p>
 <p align="center">
   <img src="./Thiết_kế_chưa_có_tên-removebg-preview.png" width="500">
-  
-</p>
-<p align="center">
-<i>✦𝓜𝔂 𝓕𝓪𝓿 𝓭𝓾𝓶𝓫𝓪𝓼𝓼✦</i>
-<p align="center">
-  <img src="./_⑅ Pest _꒱_♡-Photoroom.png" width="400">
-   <img src="./chubby griefer thing-Photoroom.png" width="300">  
-  <div align="center">
-<p align="center">
+  <p align="center">
  ༒༺𓆩✦𓆪༻༒
 </p>
     <td width="650" align="center">
