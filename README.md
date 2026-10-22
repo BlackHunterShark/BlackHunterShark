@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tải xuống (10)-Photoroom.png" width="600" length="900" >
+  <img src="./tải_xuống__5_-removebg-preview.png" width="600" length="900" >
 
 <p align="center"> 
   
@@ -40,7 +40,7 @@
 <tr>
 
 <td width="280" align="center">
-<img src="Credits_ Flor_Hiroshi.jpe" width="500"/>
+<img src="tải_xuống__5_-removebg-preview.png" width="500"/>
   
 <img src="MY BABY.png?raw=true" width="500"/>
 
