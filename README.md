@@ -65,17 +65,17 @@
  <img src="./lol.png" width="800"> 
 <p align="center"> 
   
-  <img src="./yo.svg" width="400"> 
+  <img src="./yo.svg" width="1200"> 
 </p>
 <p align="center">
   <a href="https://ivandeath.atabook.org/">
-    <img src="https://img.shields.io/badge/☸_ATABOOK-e5dcb7?style=for-the-badge&labelColor="000000"> 
+    <img src="https://img.shields.io/badge/☸_ATABOOK-0A0A0A?style=for-the-badge&labelColor="000000" width="250"> 
   </a>
 </p>
 <br>
 <p align="center"> 
   
-  <img src="./Play.svg" width="600"> 
+  <img src="./Play.svg" width="900"> 
 </p>
 </p>
 <p align="center">
