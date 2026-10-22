@@ -3,7 +3,7 @@
 
 <p align="center"> 
   
-  <img src="./" width="400"> 
+  <img src="./WC.svg" width="600"> 
 </p>
 <p align="center">
  ༒༺𓆩✦𓆪༻༒
