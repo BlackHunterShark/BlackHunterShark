@@ -42,7 +42,7 @@
 <td width="280" align="center">
 <img src="tải_xuống__5_-removebg-preview.png" width="500"/>
   
-<img src="MY BABY.png?raw=true" width="500"/>
+<img src="Ivan_Alien_Stage-removebg-preview.png" width="500"/>
 
 <p align="center">
  𖤐𝕴𝖛𝖆𝖓𖤐
