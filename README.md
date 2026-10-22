@@ -23,7 +23,7 @@
   <img src="./Blocktales.png" width="500">
   
   <p align="center">    
-  <img src="./rip.svg" width="1200">
+  <img src="./HAL.svg" width="1200">
 </p>
 
 <p align="center">
